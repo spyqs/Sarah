@@ -185,7 +185,7 @@ export default async function Home() {
           <p className="mt-6 text-xl text-neutral-600">
             We are a development studio working at the intersection of design
             and technology. It’s a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+            our staff have been involved in hit and runs.  
           </p>
         </FadeIn>
       </Container>
